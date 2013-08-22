@@ -14,7 +14,7 @@ public class Background extends GameActor {
 	public static final int FLOOR = MainSurfaceView.SCREEN_H * 3 / 4;
 	
 	private Ground ground;
-	private Cloud cloud; 
+	private Cloud cloud;
 	
 	
 	
